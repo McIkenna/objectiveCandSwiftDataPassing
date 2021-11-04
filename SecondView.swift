@@ -24,8 +24,6 @@ import UIKit
         
         userLabel.text = userId
         titleLabel.text = titleItem
-        titleLabel.numberOfLines = 0
-        titleLabel.lineBreakMode = .byWordWrapping
         
     }
     
